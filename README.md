@@ -14,17 +14,17 @@
 [![Figma](https://img.shields.io/badge/Figma-F24E1E?logo=figma&logoColor=white)](https://www.figma.com/)
 
 
-## 💫 About Me
+# 💫 About Me
 
 👋 Hi, I’m Nguyen Hung
 👀 Passionate about working with data, I specialize in analyzing, organizing, and visualizing information to uncover valuable insights. As a senior student, I have developed practical skills in Excel, SQL, R, Python, and Power BI through academic projects and personal practice. Currently, I'm a student at the University of Economics and Laws pursuing a bachelor's degree in Ecommerce.
 
-## 💻 Technical Skill
+# 💻 Technical Skill
 
 - SQL: PostgreSQL, MySQL, Google Big Query
 - Power BI: Power Query, DAX, Data Modeling
 - Python: Pandas, NumPy, Matplotlib
 - Machine Learning: Supervised and Unsupervised with Scikit-learn
 
-## 📊 Projects for Sharing
+# 📊 Projects for Sharing
 
