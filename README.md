@@ -27,4 +27,8 @@
 - Machine Learning: Supervised and Unsupervised with Scikit-learn
 
 # 📊 Projects for Sharing
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=HungTran284&repo=SQL-Olist-RFM-practise&theme=ambient_gradient&hide_border=false&card_width=500&show_icons=True)](https://github.com/HungTran284/SQL-Olist-RFM-practise)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=HungTran284&repo=shopify-sales-and-customer&theme=ambient_gradient&hide_border=false&card_width=500&show_icons=True)](https://github.com/HungTran284/shopify-sales-and-customer)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=HungTran284&repo=customer-segment-conversion&theme=ambient_gradient&hide_border=false&card_width=500&show_icons=True)](https://github.com/HungTran284/customer-segment-conversion)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=HungTran284&repo=supervised-learning-price-prediction&theme=ambient_gradient&hide_border=false&card_width=500&show_icons=True)](https://github.com/HungTran284/supervised-learning-price-prediction)
 
