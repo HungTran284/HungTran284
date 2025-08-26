@@ -31,4 +31,4 @@
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=HungTran284&repo=shopify-sales-and-customer&theme=ambient_gradient&hide_border=false&card_width=500&show_icons=True)](https://github.com/HungTran284/shopify-sales-and-customer)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=HungTran284&repo=customer-segment-conversion&theme=ambient_gradient&hide_border=false&card_width=500&show_icons=True)](https://github.com/HungTran284/customer-segment-conversion)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=HungTran284&repo=supervised-learning-price-prediction&theme=ambient_gradient&hide_border=false&card_width=500&show_icons=True)](https://github.com/HungTran284/supervised-learning-price-prediction)
-
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=HungTran284&repo=RFM-segmentation-analysis&theme=ambient_gradient&hide_border=false&card_width=500&show_icons=True)](https://github.com/HungTran284/https://github.com/HungTran284/RFM-segmentation-analysis)
